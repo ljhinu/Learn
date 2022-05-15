@@ -1,0 +1,7 @@
+/* pages/home/home.wxss */
+.title {
+  display: block;
+  color: sandybrown;
+  text-align: center;
+  font-size: 32px;
+}
